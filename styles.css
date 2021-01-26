@@ -56,3 +56,30 @@ header{
     padding: 3.5%;
     border: 2px solid white;
 }
+
+/* INFO */
+.info-padding{
+    padding: 10% 0;
+}
+
+.text-container{
+    background: white;
+    width: 41%;
+    padding: 5% 0 0 7%;
+    float: right;
+    position: relative;
+    bottom: 295px;
+}
+
+.text-container h1{
+    font-size: 45px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: black;
+    letter-spacing: 2.5px;
+}
+
+.text-container p{
+    color: hsl(0, 0%, 55%);
+    margin-bottom: 0;
+    line-height: 1.5;
+}
